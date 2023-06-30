@@ -35,8 +35,8 @@ Contact Page:
 
 
 ## Tech Stack 💻
-Azure
-Html
-CSS
-Bootstarp
-Javascript
+* Azure
+* Html
+* CSS
+* Bootstarp
+* Javascript
