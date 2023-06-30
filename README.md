@@ -6,8 +6,8 @@ This is a web based application to provide healthy and tasty organic products to
 Project Link ---> https://mango-desert-034264d00.3.azurestaticapps.net/ project demo video link ---> 
 
 ## Azure Technologies used for this project
-Static web apps
-Health Bot
+* Static web apps
+* Health Bot
 
 
 ## Features and and Functionalities
