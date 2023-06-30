@@ -3,7 +3,7 @@
 This is a web based application developed to provide the organic products in  various categories like vegetables and fruits.
 
 This is a web based application to provide healthy and tasty organic products to your home and these days so many people facing health issues due lack of protiens and quality in thier food . So that this application providesthe organic products in vegetables and fruits at thier home has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft ,Future Skills Prime , Quess , Github and EY
-Project Link ---> https://mango-desert-034264d00.3.azurestaticapps.net/ project demo video link ---> 
+Project Link ---> https://mango-desert-034264d00.3.azurestaticapps.net/ project demo video link ---> https://youtu.be/1v1UyuPj-ps
 
 ## Azure Technologies used for this project
 * Static web apps
